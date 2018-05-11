@@ -1,10 +1,5 @@
 /***************************************************************
-GEOM90007 Major Project
-Group Member:
-Gang Fu      709659
-Shen Zhang   707496
-Jie Pu       765316
-Changjian Ma 653909
+Major Project
 
 This project is to develop an exploratory user interface including various functions using Processing.
 The dataset our group used is the "Dublin Bus" dataset.
